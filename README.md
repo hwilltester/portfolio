@@ -2,6 +2,6 @@
 # About ME
 # Tools
 # Languages
-- Burmese (Native)
-- English (Professional)
-- Thai (Studying)
+- Burmese 🇲🇲 (Native)
+- English 🇺🇸 (Professional)
+- Thai 🇹🇭 (Studying)
