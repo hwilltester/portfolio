@@ -1,7 +1,7 @@
 # portfolio
 # About ME
-#Tools
-#Languages
+# Tools
+# Languages
 - Burmese (Native)
 - English (Professional)
 - Thai (Studying)
