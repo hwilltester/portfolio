@@ -9,13 +9,32 @@ As a **Business Analyst**, I have successfully **translated business needs into 
 
 I am passionate about **delivering high-quality software** and continuously improving **testing strategies and business processes**. My goal is to leverage my combined QA and BA expertise to contribute to innovative, user-focused software solutions.
 
+# What am I doing currently?
+- Studying Cypress Automation
+
 # Linkedin
 Please check my linkedin via : [Will's Linkedin](https://www.linkedin.com/in/htuuwill/)
 
 # Resume
 Please kindly review my resume here : [Download Will's Resume](https://drive.google.com/file/d/1337w2sMdFBPVyfs4DRufdG95lgUceCgH/view?usp=sharing)
 
-# Tools & Languages
+# Testing Skills
+- Manual Testing Execution (Web, Mobile, API)
+- Functional Testing
+- Regression Testing
+- Integration Testing
+- End-to-End Testing
+- User Acceptance Testing (UAT)
+- API Testing
+- Exploratory Testing
+- Test Case Development
+- Test Coverage with RTM
+- Defect Reporting
+- Tracking and Management
+- Root Cause Analysis
+- QA Process Improvement
+
+# Tools 
 - JIRA, Click-up, Monday.com, Trello
   - Project Management, User Story, Defect Tracking, Defect Reporting
 - Confluence
@@ -28,13 +47,33 @@ Please kindly review my resume here : [Download Will's Resume](https://drive.goo
   - Cypress Automation
 - Katalon Studio
   - Record and write test cases and test suites
+ 
+# Programming Languages
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
 
+# Tools (Learning in Progress)***
+- Cypress Automation
 
+# Education
+- B.C.Sc (Computer Science) ~ University of Computer Studies, Yangon
+- Diploma in English ~ Wall Street English Myanmar
+- Diploma in Banking and Finance ~ Robison Business School X Myanmar Learning Lab
 
-
-
+# Certification
+- [Katalon studio step by step for Beginners](https://www.udemy.com/certificate/UC-QWRWRJ32/)
+- [Python for Beginners by sololearn.com](https://www.sololearn.com/Certificate/CT-QJNXNIIZ/png)
+- [Html by sololearn.com](https://www.sololearn.com/Certificate/CT-QJNXNIIZ/png)
+- [SQL by sololearn.com](https://www.sololearn.com/en/certificates/CT-QHMLBRFY)
+- Hello World! Towards Better Agile Teams by Yoma Bank
+  
 
 # Languages
 - Burmese 🇲🇲 (Native)
 - English 🇺🇸 (Professional)
 - Thai 🇹🇭 (Studying)
+
+# Project & Test Cases
