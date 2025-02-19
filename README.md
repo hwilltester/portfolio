@@ -77,11 +77,11 @@ Please kindly review my resume here : [Download Will's Resume](https://drive.goo
 - Thai 🇹🇭 (Studying)
 
 # Project & Test Cases
-- Yoma Bank - New Digital Banking Web and Mobile Project (Quality Assurance)
+- Yoma Bank ~ New Digital Banking Web and Mobile Project (Quality Assurance)
   - Led end-to-end QA testing for Y oma Bank's new digital banking platforms, identifying and resolving critical issues that contributed to a successful launch with high user adoption rates
-- Yoma Bank - Web-based Mortgage Application Project (Quality Assurance)
+- Yoma Bank ~ Web-based Mortgage Application Project (Quality Assurance)
   - Conducted detailed QA testing for Y oma Bank's web-based mortgage application. Ensured a seamless user experience and reduced processing errors by implementing robust test cases
-- Yoma Bank - Loan Origination System Project (Business Analyst - Quality Assurance)
- - Developed test strategies based on business requirements, improving loan processing efficiency and client satisfaction through a smooth digital transition
-- Yoma New Collection System Project (Business Analyst - Quality Assurance)
- - Combined business analysis and QA expertise to streamline the Collection System, improving debt collection processes and system reliability
+- Yoma Bank ~ Loan Origination System Project (Business Analyst - Quality Assurance)
+  - Developed test strategies based on business requirements, improving loan processing efficiency and client satisfaction through a smooth digital transition
+- Yoma Bank ~ New Collection System Project (Business Analyst - Quality Assurance)
+  - Combined business analysis and QA expertise to streamline the Collection System, improving debt collection processes and system reliability
