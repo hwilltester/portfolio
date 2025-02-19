@@ -7,6 +7,8 @@ In my career, I have played a dual role—analyzing business requirements and ex
 
 I am passionate about software quality, process optimization, and collaboration between teams. My goal is to leverage my QA and BA expertise to drive innovative and user-focused software solutions.
 
+I believe in continuous learning and am committed to staying updated with the latest industry trends to ensure the delivery of top-quality software solutions.
+
 # Skills and Expertise
 <h3>Testing Skills</h3>
 
