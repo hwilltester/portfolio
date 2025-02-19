@@ -96,7 +96,7 @@ Yangon, Myanmar <br>
 - Coordinated testing for the Collection System, improving productivity by 80%
 
 
-Sr. Software Quality Specialist
+Sr. Software Quality Specialist <br>
 Yoma Bank Limited <br>
 Yangon, Myanmar <br>
 09/2016 - 08/2020
