@@ -1,44 +1,6 @@
 # portfolio
-[Resume](https://github.com/hwilltester/portfolio/edit/main/README.md#resume)
-# About ME
-# About ME
-# About ME# About ME
-# About ME
-# About ME
-# About ME
-v
-v
-v
-# About ME
-# About ME
-# About ME
-# About ME
-# About ME
-# About ME
-# About ME
-# About ME# About ME
-
-da
-gads
-ag
-ag
-agd
-ag
-ag
-ag
-;ga
-agd;
-ag;
-a;g
-adg;
-adga
-dg
-adsg
-a
-dsg
-a
-dgadgdag
 # Resume
+Please kindly review my resume here : [Download My Resume](https://drive.google.com/file/d/1337w2sMdFBPVyfs4DRufdG95lgUceCgH/view?usp=sharing)
 # Tools
 # Languages
 - Burmese 🇲🇲 (Native)
