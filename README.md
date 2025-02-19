@@ -17,17 +17,17 @@ Please kindly review my resume here : [Download Will's Resume](https://drive.goo
 
 # Tools & Languages
 - JIRA, Click-up, Monday.com, Trello
- - Project Management, User Story, Defect Tracking, Defect Reporting
+  - Project Management, User Story, Defect Tracking, Defect Reporting
 - Confluence
- - Documentation for Projects, User Guides for Department
+  - Documentation for Projects, User Guides for Department
 - draw.io
- - Workflow and Flowchart for Business Requirements
+  - Workflow and Flowchart for Business Requirements
 - Postman
   - API Testing
 - Visual Studio Code
- - Cypress Automation
+  - Cypress Automation
 - Katalon Studio
- - Record and write test cases and test suites
+  - Record and write test cases and test suites
 
 
 
