@@ -1,13 +1,11 @@
 # portfolio
 
 # About Me
-I am a results-driven **Quality Assurance Specialist and Business Analyst** with over seven years of experience in **software testing and requirements analysis**. My expertise lies in manual testing for **web, mobile, and API applications**, as well as gathering and analyzing business requirements to drive high-quality software development.  
+I am a Quality Assurance Specialist and Business Analyst with over seven years of experience in manual testing and requirements analysis. My expertise includes web, mobile, and API testing, ensuring high-quality software through functional, regression, and UAT testing in Agile environments.
 
-In my most recent role at **Prominence Co., Ltd. in Thailand**, I conducted **comprehensive manual testing** for web applications and APIs while collaborating within Agile teams. Prior to that, I held **senior QA and Business Analyst roles at Yoma Bank**, where I played a key role in **defining business requirements, leading UAT sessions, and improving testing processes** for major digital banking projects.  
+In my career, I have played a dual role—analyzing business requirements and executing comprehensive test strategies to improve product quality. I have successfully contributed to digital banking projects, enhancing efficiency, automation, and customer experience.
 
-As a **Business Analyst**, I have successfully **translated business needs into functional requirements**, ensuring that software solutions align with company goals. My ability to bridge the gap between technical teams and stakeholders has led to improved **efficiency, process automation, and digital transformation**.  
-
-I am passionate about **delivering high-quality software** and continuously improving **testing strategies and business processes**. My goal is to leverage my combined QA and BA expertise to contribute to innovative, user-focused software solutions.
+I am passionate about software quality, process optimization, and collaboration between teams. My goal is to leverage my QA and BA expertise to drive innovative and user-focused software solutions.
 
 # What am I doing currently?
 - Studying Cypress Automation
