@@ -27,6 +27,18 @@ I believe in continuous learning and am committed to staying updated with the la
 - Root Cause Analysis
 - QA Process Improvement
 
+<h3> Business Analysis Skills</h3>
+
+- Requirements Gathering & Analysis
+- Stakeholder Communication
+- Documentation & Specification Writing
+- Process Modeling
+- Wireframing & Prototyping
+- User Stories & Use Cases
+- Change Management
+- Business Intelligence & Reporting
+- Testing & Quality Assurance Collaboration
+
 <h3> Methodologies and Processes </h3>
 
 - SDLC & STLC
@@ -112,7 +124,7 @@ Yangon, Myanmar <br>
 - Promoted to the senior position after one and a half years
 - Delivered first Mobile App, Online Banking Platform, and Admin Portal, improving customer experience and driving digital banking adoption with over 90% rate
 - Successfully executed testing for Web-based Mortgage Application with a 90% user adoption rate
-- Contributed to MVP of Loan Origination System and Y omaBank Next Mobile Banking App
+- Contributed to MVP of Loan Origination System and YomaBank Next Mobile Banking App
 
 Junior Assistant <br>
 KBZ Bank Limited <br>
@@ -126,9 +138,9 @@ Yangon, Myanmar <br>
 
 # Project
 - Yoma Bank ~ New Digital Banking Web and Mobile Project (Quality Assurance)
-  - Led end-to-end QA testing for Y oma Bank's new digital banking platforms, identifying and resolving critical issues that contributed to a successful launch with high user adoption rates
+  - Led end-to-end QA testing for Yoma Bank's new digital banking platforms, identifying and resolving critical issues that contributed to a successful launch with high user adoption rates
 - Yoma Bank ~ Web-based Mortgage Application Project (Quality Assurance)
-  - Conducted detailed QA testing for Y oma Bank's web-based mortgage application. Ensured a seamless user experience and reduced processing errors by implementing robust test cases
+  - Conducted detailed QA testing for Yoma Bank's web-based mortgage application. Ensured a seamless user experience and reduced processing errors by implementing robust test cases
 - Yoma Bank ~ Loan Origination System Project (Business Analyst - Quality Assurance)
   - Developed test strategies based on business requirements, improving loan processing efficiency and client satisfaction through a smooth digital transition
 - Yoma Bank ~ New Collection System Project (Business Analyst - Quality Assurance)
