@@ -77,6 +77,7 @@ I believe in continuous learning and am committed to staying updated with the la
 - Java
 
 <h3>Languages</h3>
+
 - Burmese 🇲🇲 (Native)
 - English 🇺🇸 (Professional)
 - Thai 🇹🇭 (Studying)
