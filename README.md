@@ -1,5 +1,13 @@
 # About Me
+- [Introduction](#Introduction)
+- [Skills and Expertise](#Skills-and-Expertise)
+- [Professional Experience](#Professional-Experience)
+- [Project](#Project)
+- [Education](#Education)
+- [Certification](#Certification)
 - [Contact Info](#Contact-Information)
+- [What am I doing currently?](#What-am-I-doing-currently?)
+- [Demo Test Cases](#Demo-Test-Cases)
 
 # Introduction
 I am a Quality Assurance Specialist and Business Analyst with over seven years of experience in manual testing and requirements analysis. My expertise includes web, mobile, and API testing, ensuring high-quality software through functional, regression, and UAT testing in Agile environments.
