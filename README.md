@@ -10,13 +10,7 @@
 - [Demo Test Cases](#Demo-Test-Cases)
 
 # Introduction
-I am a Quality Assurance Specialist and Business Analyst with over seven years of experience in manual testing and requirements analysis. My expertise includes web, mobile, and API testing, ensuring high-quality software through functional, regression, and UAT testing in Agile environments.
-
-In my career, I have played a dual role—analyzing business requirements and executing comprehensive test strategies to improve product quality. I have successfully contributed to digital banking projects, enhancing efficiency, automation, and customer experience.
-
-I am passionate about software quality, process optimization, and collaboration between teams. My goal is to leverage my QA and BA expertise to drive innovative and user-focused software solutions.
-
-I believe in continuous learning and am committed to staying updated with the latest industry trends to ensure the delivery of top-quality software solutions.
+QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and quality assurance across banking and fintech products. I've shipped core banking systems, mobile apps, and loan platforms and I know how to find bugs before real users do. I leverage AI and expert prompt engineering to accelerate test case generation and ensure deep coverage of complex edge cases. Strong background combining both BA and QA roles. Actively expanding my technical stack with Playwright and TypeScript for automated testing, while showcasing practical SQL and API testing projects on GitHub.
 
 # Skills and Expertise
 <h3>Testing Skills</h3>
@@ -29,12 +23,17 @@ I believe in continuous learning and am committed to staying updated with the la
 - User Acceptance Testing (UAT)
 - API Testing
 - Exploratory Testing
-- Test Case Development
+- Agile Testing
+- Test Case Design/Development
 - Test Coverage with RTM
 - Defect Reporting
 - Tracking and Management
 - Root Cause Analysis
 - QA Process Improvement
+- Defect Management
+- RTM
+- AI-Driven Test Case Design
+- AI-Augmented QA Analysis
 
 <h3> Business Analysis Skills</h3>
 
@@ -76,14 +75,19 @@ I believe in continuous learning and am committed to staying updated with the la
   - Cypress Automation
 - Katalon Studio
   - Record and write test cases and test suites
+
  
 <h3>Programming Languages</h3>
 
-- HTML
-- CSS
+- SQL
 - JavaScript
-- Python
-- Java
+
+<h3>Domains</h3>
+- Core Banking
+- Digital Banking
+- Loan Origination
+- Collection
+- FinTech
 
 <h3>Languages</h3>
 
@@ -92,7 +96,8 @@ I believe in continuous learning and am committed to staying updated with the la
 - Thai 🇹🇭 (Studying)
 
 <h3>Tools (Learning in Progress)***</h3>
-- Cypress Automation
+- Robot Framework 
+- Playwright 
 
 # Professional Experience
 Software Tester/QC <br>
