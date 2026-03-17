@@ -113,52 +113,41 @@ Software Tester/QC <br>
 Prominence Co., Ltd. <br>
 Bangkok, Thailand <br>
 09/2023 - 08/2024 <Br>
-- Executed comprehensive manual testing for web applications and APIs using Postman
-- Developed and implemented detailed test plans, scenarios, and test cases aligned with project requirements
-- Participated in Agile ceremonies including daily stand-ups and sprint planning
-- Provided regular testing progress reports and defect status updates
-- Mentored team members and maintained testing standards through test case reviews
+- Designed full test plans, test scenarios, and regression suites from user stories and business requirements
+- Tested web apps and REST APIs using Postman; conducted functional, integration, and regression testing
+- Logged and tracked all defects in JIRA with clear steps to reproduce, severity, and priority
+- Delivered end-to-end test coverage across customer journeys before every production release
+- Reported testing progress to stakeholders in sprint ceremonies and written updates
 
 Sr. Business Analyst - QA Tester <br>
 Yoma Bank Limited <br>
 Yangon, Myanmar <br>
 09/2020 - 06/2023
-- Created and executed 500+ detailed test cases based on business requirements
-- Conducted UAT sessions with end-users and managed stakeholder communications
-- Identified, reported, and tracked defects in JIRA, working closely with development teams
-- Provided regular testing progress updates through daily and weekly reports
-<h4>Achievements</h4>
-
-- Promoted to the Senior position after one year
-- Successfully delivered Loan Origination System, digitized manual documentation process and reduced the usage of manual paper in over 50% of loan applications
-- Coordinated testing for the Collection System, improving productivity by 80%
-
+- Created and executed 500+ UAT test cases from business requirements for core banking systems
+- Led UAT sessions with business users and ops teams; managed defect resolution and sign-offs
+- Delivered Loan Origination System UAT — digitized loan processing and reduced paper usage by 50%+
+- Coordinated Collection System testing from a fully manual workflow, improving productivity by 80%
+- Prepared complete test documentation: test plans, trackers, defect logs, and sign-off reports
+- Provided daily and weekly test status reports to project managers and stakeholders
+- Mentored junior team members and reviewed test cases for coverage and consistency
 
 Sr. Software Quality Specialist <br>
 Yoma Bank Limited <br>
 Yangon, Myanmar <br>
 09/2016 - 08/2020
-- Performed comprehensive manual testing of web and mobile banking applications
-- Conducted and created 900+ test cases, documenting, and reporting software bugs
-- Participated as QA specialist in scrum teams
-- Facilitated end-user training for different departments
-  
-<h4>Achievements</h4>
-
-- Promoted to the senior position after one and a half years
-- Delivered first Mobile App, Online Banking Platform, and Admin Portal, improving customer experience and driving digital banking adoption with over 90% rate
-- Successfully executed testing for Web-based Mortgage Application with a 90% user adoption rate
-- Contributed to MVP of Loan Origination System and YomaBank Next Mobile Banking App
+- Built test strategies and UAT plans for web and mobile banking apps from scratch
+- Executed 900+ end-to-end test cases covering functional, integration, and UAT phases
+- Contributed to Mobile Banking App, Online Banking Platform, and Admin Portal ~ 90%+ adoption rate
+- Led UAT for Web-based Mortgage Application; contributed to Loan Origination System MVP
+- Ran end-user training post-launch to drive smooth system adoption across departments
 
 Junior Assistant <br>
 KBZ Bank Limited <br>
 Yangon, Myanmar <br>
 08/2013 - 08/2016
-- Gained extensive banking domain knowledge through hands-on experience
-- Managed banking operations and customer service processes
+- Managed loan files, customer transactions, and branch operations with high accuracy
+- Gained deep, hands-on knowledge of core banking operations across multiple departments
 
-<h4>Achievements</h4>
-- Obtained General Banking Knowledge Certificate from KBZ Bank Limited
 
 # Project
 - Yoma Bank ~ New Digital Banking Web and Mobile Project (Quality Assurance)
@@ -190,7 +179,7 @@ Yangon, Myanmar <br>
 - [email](htuuwill@gmail.com)
 
 # What am I doing currently?
-- Studying Cypress Automation 
+- Stidying Robot Framework
 
 # Demo Test Cases
 - [Demo Test Cases](https://drive.google.com/drive/folders/1sHw46dMshNfcWYPGTKzUsySDT8dUyrkl?usp=sharing)
