@@ -100,6 +100,15 @@ QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and qua
 - Playwright 
 
 # Professional Experience
+
+Community Operations Specialist <br>
+tdcx Thailand <br>
+Bangkok, Thailand <br>
+04/2025 - 04/2026 <Br>
+- Review and assess customer cases against company policies in a high-volume, high-stakes environment
+- Make fast, accurate decisions balancing user safety with operational consistency
+- Work cross-functionally to uphold service quality standards across teams
+
 Software Tester/QC <br>
 Prominence Co., Ltd. <br>
 Bangkok, Thailand <br>
