@@ -175,7 +175,7 @@ Yangon, Myanmar <br>
 
 # Contact Information
 - [Linkedin](https://www.linkedin.com/in/htuuwill/)
-- [Download resume](https://drive.google.com/file/d/1337w2sMdFBPVyfs4DRufdG95lgUceCgH/view?usp=sharing)
+- [Download resume](https://drive.google.com/file/d/1oNllCkSYTdT9NQ9HuYJ2PYhuIc1ObP1S/view?usp=sharing)
 - [email](htuuwill@gmail.com)
 
 # What am I doing currently?
