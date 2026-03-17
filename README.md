@@ -31,7 +31,6 @@ QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and qua
 - Root Cause Analysis
 - QA Process Improvement
 - Defect Management
-- RTM
 - AI-Driven Test Case Design
 - AI-Augmented QA Analysis
 
@@ -76,7 +75,6 @@ QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and qua
 - Katalon Studio
   - Record and write test cases and test suites
 
- 
 <h3>Programming Languages</h3>
 
 - SQL
