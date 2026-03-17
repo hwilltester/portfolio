@@ -81,6 +81,7 @@ QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and qua
 - JavaScript
 
 <h3>Domains</h3>
+
 - Core Banking
 - Digital Banking
 - Loan Origination
