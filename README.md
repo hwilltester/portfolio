@@ -184,3 +184,8 @@ Yangon, Myanmar <br>
 # Demo Test Cases
 - [Demo Test Cases](https://drive.google.com/drive/folders/1sHw46dMshNfcWYPGTKzUsySDT8dUyrkl?usp=sharing)
 
+# Demo Projects
+- [SQL Demo project](https://github.com/hwilltester/sql-tester-portfolio)
+- [Postman Demo project](https://github.com/hwilltester/postman-api-testing)
+
+
