@@ -169,7 +169,7 @@ Yangon, Myanmar <br>
 - [Python for Beginners by sololearn.com](https://www.sololearn.com/Certificate/CT-QJNXNIIZ/png)
 - [Html by sololearn.com](https://www.sololearn.com/Certificate/CT-QJNXNIIZ/png)
 - [SQL by sololearn.com](https://www.sololearn.com/en/certificates/CT-QHMLBRFY)
-- Robot Framework Mastery - From Zero to Hero (https://www.udemy.com/certificate/UC-64c05af7-03a6-4ab0-a320-0b8140874895/)
+- [Robot Framework Mastery - From Zero to Hero](https://www.udemy.com/certificate/UC-64c05af7-03a6-4ab0-a320-0b8140874895/)
 - Hello World! Towards Better Agile Teams by Yoma Bank
 - General Banking Knowledge Certification by KBZ Bank
 
