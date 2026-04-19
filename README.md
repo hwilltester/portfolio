@@ -10,7 +10,7 @@
 - [Demo Test Cases](#Demo-Test-Cases)
 
 # Introduction
-QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and quality assurance across banking and fintech products. I've shipped core banking systems, mobile apps, and loan platforms and I know how to find bugs before real users do. I leverage AI and expert prompt engineering to accelerate test case generation and ensure deep coverage of complex edge cases. Strong background combining both BA and QA roles. Actively expanding my technical stack with Playwright and TypeScript for automated testing, while showcasing practical SQL and API testing projects on GitHub.
+QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and quality assurance across banking and fintech products. I've shipped core banking systems, mobile apps, and loan platforms and I know how to find bugs before real users do. I leverage AI and expert prompt engineering to accelerate test case generation and ensure deep coverage of complex edge cases. Strong background combining both BA and QA roles. Actively expanding my technical stack with Robot Framework and Python for automated testing, while showcasing practical SQL and API testing projects on GitHub.
 
 # Skills and Expertise
 <h3>Testing Skills</h3>
