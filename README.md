@@ -73,7 +73,7 @@ QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and qua
 - Visual Studio Code
   - Robot Framework
 - Katalon Studio
- - Used for test recording in earlier projects (now transitioning to Robot Framework)
+  - Used for test recording in earlier projects (now transitioning to Robot Framework)
 
 <h3>Programming Languages</h3>
 
