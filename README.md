@@ -71,7 +71,7 @@ QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and qua
 - Postman
   - API Testing
 - Visual Studio Code
-  - Cypress Automation
+  - Robot Framework
 - Katalon Studio
   - Record and write test cases and test suites
 
