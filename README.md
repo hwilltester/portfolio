@@ -180,7 +180,9 @@ Yangon, Myanmar <br>
 - [email](htuuwill@gmail.com)
 
 # What am I doing currently?
-Studying Robot Framework with Python — building automation portfolio on GitHub
+* Building test automation skills with Robot Framework and Python
+* Expanding API testing portfolio on GitHub
+* Actively seeking QA Engineer roles in Bangkok
 
 # Demo Test Cases
 - [Demo Test Cases](https://drive.google.com/drive/folders/1sHw46dMshNfcWYPGTKzUsySDT8dUyrkl?usp=sharing)
