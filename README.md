@@ -94,7 +94,8 @@ QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and qua
 - English 🇺🇸 (Professional)
 - Thai 🇹🇭 (Studying)
 
-<h3>Tools (Currently Expanding)***</h3>
+<h3>Tools (Currently Expanding)</h3>
+
 - Playwright (UI Automation)
 - JMeter (Performance Testing)
 
