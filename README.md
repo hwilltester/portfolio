@@ -94,10 +94,9 @@ QA Engineer with 7+ years of hands-on experience in manual testing, UAT, and qua
 - English 🇺🇸 (Professional)
 - Thai 🇹🇭 (Studying)
 
-<h3>Tools (Learning in Progress)***</h3>
-
-- Robot Framework 
-- Playwright 
+<h3>Tools (Currently Expanding)***</h3>
+- Playwright (UI Automation)
+- JMeter (Performance Testing)
 
 # Professional Experience
 
@@ -172,6 +171,8 @@ Yangon, Myanmar <br>
 - [Robot Framework Mastery - From Zero to Hero](https://www.udemy.com/certificate/UC-64c05af7-03a6-4ab0-a320-0b8140874895/)
 - Hello World! Towards Better Agile Teams by Yoma Bank
 - General Banking Knowledge Certification by KBZ Bank
+- [TAU - Introduction to Robot Framework](https://testautomationu.applitools.com/certificate/?id=ff5a26d2) · Test Automation University (2026)
+- [TAU - Python Programming](https://testautomationu.applitools.com/certificate/?id=10b7da3a) · Test Automation University (2026)
 
 
 # Contact Information
